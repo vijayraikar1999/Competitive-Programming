@@ -1,5 +1,5 @@
 ### Ping_Paja_Pong Question
-#### [Solution](!https://github.com/vijayraikar1999/Competitive-Programming/blob/master/CodeChef/Beginner/Ping_Paja_Pong/Solution.cpp)
+#### [Solution](https://github.com/vijayraikar1999/Competitive-Programming/blob/master/CodeChef/Beginner/Ping_Paja_Pong/Solution.cpp)
 ```text
 Chef and Paja are bored, so they are playing an infinite game of ping pong. The rules of the game are as follows:
 
