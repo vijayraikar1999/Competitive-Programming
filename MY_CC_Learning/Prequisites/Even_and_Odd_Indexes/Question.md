@@ -20,4 +20,4 @@ Sample Output:
 6 4
 
 ```
-(Solution:)[https://github.com/vijayraikar1999/Competitive-Programming/blob/master/MY_CC_Learning/Prequisites/Even_and_Odd_Indexes/Solution.cpp]
+[Solution:](https://github.com/vijayraikar1999/Competitive-Programming/blob/master/MY_CC_Learning/Prequisites/Even_and_Odd_Indexes/Solution.cpp)
